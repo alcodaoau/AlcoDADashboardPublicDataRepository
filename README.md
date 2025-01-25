@@ -1,7 +1,7 @@
 #  Alameda County District Attorney's Office Data
 This repository contains aggregate data that populates the Alameda County District Attorney's Office Dashboard.
 
-Content on this repo will change as data and documentation are updated.
+Content on this repository will change as data and documentation are updated.
 
 
 ## Data Sources
